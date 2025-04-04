@@ -206,7 +206,7 @@
     "insuredDriverName": "Ciríaco Alcalá-Villaverde",
     "insuredDriverTelephoneNumber": "+34734 89 98 09",
     "insuredDamageVA": "atque",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 4,
@@ -982,7 +982,7 @@
     "insuredDriverName": "Celia Bermúdez Córdoba",
     "insuredDriverTelephoneNumber": "+34 880 687 525",
     "insuredDamageVA": "aperiam",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 20,
@@ -1161,7 +1161,7 @@
     "insuredDriverName": "Sarita Izaguirre Calleja",
     "insuredDriverTelephoneNumber": "+34726247000",
     "insuredDamageVA": "autem",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 24,
@@ -1716,7 +1716,7 @@
     "insuredDriverName": "Rodrigo Reina Mendizábal",
     "insuredDriverTelephoneNumber": "+34718817646",
     "insuredDamageVA": "sunt",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 34,
@@ -1869,7 +1869,7 @@
     "insuredDriverName": "Jose del Sobrino",
     "insuredDriverTelephoneNumber": "+34736 771 282",
     "insuredDamageVA": "vero",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 37,
@@ -2118,7 +2118,7 @@
     "insuredDriverName": "Armida del Ramis",
     "insuredDriverTelephoneNumber": "+34 832 67 38 71",
     "insuredDamageVA": "necessitatibus",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 41,
@@ -2445,7 +2445,7 @@
     "insuredDriverName": "Vera Castelló Gras",
     "insuredDriverTelephoneNumber": "+34706 963 724",
     "insuredDamageVA": "libero",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 48,
@@ -3158,7 +3158,7 @@
     "insuredDriverName": "Juan Carlos Andrés Cid Torre",
     "insuredDriverTelephoneNumber": "+34 733 674 986",
     "insuredDamageVA": "sit",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 61,
@@ -3337,7 +3337,7 @@
     "insuredDriverName": "Griselda Rosalinda Águila Espinosa",
     "insuredDriverTelephoneNumber": "+34679 52 50 51",
     "insuredDamageVA": "occaecati",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 65,
@@ -3485,7 +3485,7 @@
     "insuredDriverName": "Mamen Cerezo Palau",
     "insuredDriverTelephoneNumber": "+34706 456 379",
     "insuredDamageVA": "quas",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 68,
@@ -4287,7 +4287,7 @@
     "insuredDriverName": "Cecilia Barrena Osorio",
     "insuredDriverTelephoneNumber": "+34 721420491",
     "insuredDamageVA": "hic",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 85,
@@ -4567,7 +4567,7 @@
     "insuredDriverName": "Bernardino Samper Lago",
     "insuredDriverTelephoneNumber": "+34 733532148",
     "insuredDamageVA": "aliquid",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 90,
@@ -4741,7 +4741,7 @@
     "insuredDriverName": "Coral del Mayo",
     "insuredDriverTelephoneNumber": "+34 922 677 072",
     "insuredDamageVA": "architecto",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 94,
@@ -4889,7 +4889,7 @@
     "insuredDriverName": "Octavia Vargas Piña",
     "insuredDriverTelephoneNumber": "+34 724 31 82 61",
     "insuredDamageVA": "officia",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 97,
@@ -5068,7 +5068,7 @@
     "insuredDriverName": "Carmelita Huguet Guzmán",
     "insuredDriverTelephoneNumber": "+34 706 341 975",
     "insuredDamageVA": "ullam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 101,
@@ -5374,7 +5374,7 @@
     "insuredDriverName": "Rita España-Peñalver",
     "insuredDriverTelephoneNumber": "+34657102583",
     "insuredDamageVA": "delectus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 107,
@@ -6077,7 +6077,7 @@
     "insuredDriverName": "Rufino Vigil",
     "insuredDriverTelephoneNumber": "+34 727545291",
     "insuredDamageVA": "unde",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 120,
@@ -6256,7 +6256,7 @@
     "insuredDriverName": "Manuelita Maza-Rius",
     "insuredDriverTelephoneNumber": "+34944626608",
     "insuredDamageVA": "velit",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 124,
@@ -6430,7 +6430,7 @@
     "insuredDriverName": "Selena Gaya Real",
     "insuredDriverTelephoneNumber": "+34 873 958 444",
     "insuredDamageVA": "quaerat",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 128,
@@ -7084,7 +7084,7 @@
     "insuredDriverName": "Donato Ponce Abad",
     "insuredDriverTelephoneNumber": "+34686 008 997",
     "insuredDamageVA": "suscipit",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 142,
@@ -7411,7 +7411,7 @@
     "insuredDriverName": "Edmundo Rubio Nogueira",
     "insuredDriverTelephoneNumber": "+34721359414",
     "insuredDamageVA": "cumque",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 149,
@@ -8130,7 +8130,7 @@
     "insuredDriverName": "Tadeo Rosell Armengol",
     "insuredDriverTelephoneNumber": "+34 670 48 70 43",
     "insuredDamageVA": "corrupti",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 163,
@@ -8257,7 +8257,7 @@
     "insuredDriverName": "Gil Peinado Ferreras",
     "insuredDriverTelephoneNumber": "+34 723 681 445",
     "insuredDamageVA": "nemo",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 165,
@@ -8654,7 +8654,7 @@
     "insuredDriverName": "Sebastián Barragán Mariscal",
     "insuredDriverTelephoneNumber": "+34841703432",
     "insuredDamageVA": "harum",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 172,
@@ -8776,7 +8776,7 @@
     "insuredDriverName": "Sergio Pomares Múñiz",
     "insuredDriverTelephoneNumber": "+34 746 07 08 44",
     "insuredDamageVA": "aspernatur",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 174,
@@ -9077,7 +9077,7 @@
     "insuredDriverName": "Verónica Malena Abril Coll",
     "insuredDriverTelephoneNumber": "+34 609 035 408",
     "insuredDamageVA": "neque",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 180,
@@ -9378,7 +9378,7 @@
     "insuredDriverName": "Jovita del Angulo",
     "insuredDriverTelephoneNumber": "+34 720 55 21 67",
     "insuredDamageVA": "occaecati",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 186,
@@ -9653,7 +9653,7 @@
     "insuredDriverName": "Damián Ledesma Pedrero",
     "insuredDriverTelephoneNumber": "+34700 74 46 29",
     "insuredDamageVA": "consequuntur",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 191,
@@ -9949,7 +9949,7 @@
     "insuredDriverName": "Reyes Sierra",
     "insuredDriverTelephoneNumber": "+34834 125 305",
     "insuredDamageVA": "dolores",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 197,
@@ -10678,7 +10678,7 @@
     "insuredDriverName": "Armida Vallejo Catalán",
     "insuredDriverTelephoneNumber": "+34667 16 48 50",
     "insuredDamageVA": "fugiat",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 211,
@@ -10979,7 +10979,7 @@
     "insuredDriverName": "Victorino Pomares Alemán",
     "insuredDriverTelephoneNumber": "+34730792337",
     "insuredDamageVA": "provident",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 217,
@@ -11285,7 +11285,7 @@
     "insuredDriverName": "Fito del Lara",
     "insuredDriverTelephoneNumber": "+34968 675 811",
     "insuredDamageVA": "aut",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 223,
@@ -11412,7 +11412,7 @@
     "insuredDriverName": "Rico de Macias",
     "insuredDriverTelephoneNumber": "+34 712 46 02 63",
     "insuredDamageVA": "optio",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 225,
@@ -11560,7 +11560,7 @@
     "insuredDriverName": "Coral Luque-Alegre",
     "insuredDriverTelephoneNumber": "+34 743379393",
     "insuredDamageVA": "quasi",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 228,
@@ -12100,7 +12100,7 @@
     "insuredDriverName": "Marciano Celso Salcedo Bermejo",
     "insuredDriverTelephoneNumber": "+34 873 026 166",
     "insuredDamageVA": "laboriosam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 238,
@@ -12585,7 +12585,7 @@
     "insuredDriverName": "Vicente Arenas Yuste",
     "insuredDriverTelephoneNumber": "+34 745 87 28 30",
     "insuredDamageVA": "soluta",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 248,
@@ -12707,7 +12707,7 @@
     "insuredDriverName": "Josué José Manuel Moya Ávila",
     "insuredDriverTelephoneNumber": "+34 743 212 102",
     "insuredDamageVA": "id",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 250,
@@ -12834,7 +12834,7 @@
     "insuredDriverName": "Loida Camacho Roura",
     "insuredDriverTelephoneNumber": "+34739 77 40 26",
     "insuredDamageVA": "blanditiis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 252,
@@ -13109,7 +13109,7 @@
     "insuredDriverName": "Nazaret Huerta Romeu",
     "insuredDriverTelephoneNumber": "+34 726613954",
     "insuredDamageVA": "quibusdam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 257,
@@ -13283,7 +13283,7 @@
     "insuredDriverName": "Vanesa Franco",
     "insuredDriverTelephoneNumber": "+34 736 40 73 48",
     "insuredDamageVA": "suscipit",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 261,
@@ -13410,7 +13410,7 @@
     "insuredDriverName": "Pilar del Murcia",
     "insuredDriverTelephoneNumber": "+34 725 510 211",
     "insuredDamageVA": "sit",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 263,
@@ -14609,7 +14609,7 @@
     "insuredDriverName": "Diana Hoyos Esteve",
     "insuredDriverTelephoneNumber": "+34 736956463",
     "insuredDamageVA": "ducimus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 287,
@@ -15180,7 +15180,7 @@
     "insuredDriverName": "Arturo Simón Ríos Vall",
     "insuredDriverTelephoneNumber": "+34710372989",
     "insuredDamageVA": "nostrum",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 298,
@@ -15359,7 +15359,7 @@
     "insuredDriverName": "Gustavo Coll Perales",
     "insuredDriverTelephoneNumber": "+34 941 95 60 14",
     "insuredDamageVA": "voluptate",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 302,
@@ -15512,7 +15512,7 @@
     "insuredDriverName": "Ainoa Cervera-Ribes",
     "insuredDriverTelephoneNumber": "+34 682138726",
     "insuredDamageVA": "quas",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 305,
@@ -16389,7 +16389,7 @@
     "insuredDriverName": "Jorge Criado",
     "insuredDriverTelephoneNumber": "+34 732 93 66 05",
     "insuredDamageVA": "consequuntur",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 322,
@@ -16817,7 +16817,7 @@
     "insuredDriverName": "Horacio Durán Carballo",
     "insuredDriverTelephoneNumber": "+34745300368",
     "insuredDamageVA": "est",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 330,
@@ -16944,7 +16944,7 @@
     "insuredDriverName": "Prudencio Toledo Vilalta",
     "insuredDriverTelephoneNumber": "+34 735 98 43 56",
     "insuredDamageVA": "repellat",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 332,
@@ -17123,7 +17123,7 @@
     "insuredDriverName": "Chema Peiró Pizarro",
     "insuredDriverTelephoneNumber": "+34660 61 96 75",
     "insuredDamageVA": "ex",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 336,
@@ -17608,7 +17608,7 @@
     "insuredDriverName": "Jordana Pacheco Gómez",
     "insuredDriverTelephoneNumber": "+34700 16 39 12",
     "insuredDamageVA": "velit",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 346,
@@ -17883,7 +17883,7 @@
     "insuredDriverName": "Yéssica Arnaiz Acuña",
     "insuredDriverTelephoneNumber": "+34651 64 76 86",
     "insuredDamageVA": "fugiat",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 351,
@@ -18695,7 +18695,7 @@
     "insuredDriverName": "Ángela del Gibert",
     "insuredDriverTelephoneNumber": "+34735 94 60 62",
     "insuredDamageVA": "qui",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 368,
@@ -18975,7 +18975,7 @@
     "insuredDriverName": "Marcio Torres Sastre",
     "insuredDriverTelephoneNumber": "+34 816686686",
     "insuredDamageVA": "fugiat",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 373,
@@ -19603,7 +19603,7 @@
     "insuredDriverName": "María Luisa Javiera Cabo Arnal",
     "insuredDriverTelephoneNumber": "+34 732 88 07 82",
     "insuredDamageVA": "eius",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 386,
@@ -19777,7 +19777,7 @@
     "insuredDriverName": "Eliseo Parra",
     "insuredDriverTelephoneNumber": "+34733609179",
     "insuredDamageVA": "quas",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 390,
@@ -22471,7 +22471,7 @@
     "insuredDriverName": "Baldomero Amor Puerta",
     "insuredDriverTelephoneNumber": "+34740 863 377",
     "insuredDamageVA": "id",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 444,
@@ -23325,7 +23325,7 @@
     "insuredDriverName": "Eufemia Andrés Palomares",
     "insuredDriverTelephoneNumber": "+34 724 708 756",
     "insuredDamageVA": "doloremque",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 463,
@@ -23478,7 +23478,7 @@
     "insuredDriverName": "Ulises Peralta Baró",
     "insuredDriverTelephoneNumber": "+34618 933 930",
     "insuredDamageVA": "aspernatur",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 466,
@@ -23605,7 +23605,7 @@
     "insuredDriverName": "Ruperta Figuerola-Alcalde",
     "insuredDriverTelephoneNumber": "+34 994972095",
     "insuredDamageVA": "id",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 468,
@@ -23732,7 +23732,7 @@
     "insuredDriverName": "Jimena Berta Maestre Carrillo",
     "insuredDriverTelephoneNumber": "+34 636 325 995",
     "insuredDamageVA": "necessitatibus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 470,
@@ -24399,7 +24399,7 @@
     "insuredDriverName": "Pepe Bravo Posada",
     "insuredDriverTelephoneNumber": "+34 743 015 872",
     "insuredDamageVA": "vitae",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 482,
@@ -24843,7 +24843,7 @@
     "insuredDriverName": "Estefanía Portero Campos",
     "insuredDriverTelephoneNumber": "+34712 831 191",
     "insuredDamageVA": "ullam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 491,
@@ -25455,7 +25455,7 @@
     "insuredDriverName": "Flor Araujo Páez",
     "insuredDriverTelephoneNumber": "+34984 84 55 82",
     "insuredDamageVA": "soluta",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 503,
@@ -26654,7 +26654,7 @@
     "insuredDriverName": "Néstor Maza Bravo",
     "insuredDriverTelephoneNumber": "+34958 964 123",
     "insuredDamageVA": "provident",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 527,
@@ -26828,7 +26828,7 @@
     "insuredDriverName": "Íñigo Cáceres Bermúdez",
     "insuredDriverTelephoneNumber": "+34 721270681",
     "insuredDamageVA": "magni",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 531,
@@ -27077,7 +27077,7 @@
     "insuredDriverName": "Valero Valbuena Diego",
     "insuredDriverTelephoneNumber": "+34 739 03 69 15",
     "insuredDamageVA": "error",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 535,
@@ -27552,7 +27552,7 @@
     "insuredDriverName": "Florentina Maza Garriga",
     "insuredDriverTelephoneNumber": "+34660325164",
     "insuredDamageVA": "ea",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 545,
@@ -28133,7 +28133,7 @@
     "insuredDriverName": "Mar Abril Vila",
     "insuredDriverTelephoneNumber": "+34 740 126 011",
     "insuredDamageVA": "tenetur",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 556,
@@ -28455,7 +28455,7 @@
     "insuredDriverName": "Felipa de Doménech",
     "insuredDriverTelephoneNumber": "+34669535954",
     "insuredDamageVA": "magnam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 563,
@@ -29114,7 +29114,7 @@
     "insuredDriverName": "Octavio Valera Carpio",
     "insuredDriverTelephoneNumber": "+34747 42 57 99",
     "insuredDamageVA": "nihil",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 577,
@@ -29368,7 +29368,7 @@
     "insuredDriverName": "Jose Angel de Alcalde",
     "insuredDriverTelephoneNumber": "+34820 76 30 99",
     "insuredDamageVA": "qui",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 581,
@@ -29669,7 +29669,7 @@
     "insuredDriverName": "Gustavo Abril Salgado",
     "insuredDriverTelephoneNumber": "+34642 40 53 75",
     "insuredDamageVA": "non",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 587,
@@ -30455,7 +30455,7 @@
     "insuredDriverName": "Violeta Olivé Saldaña",
     "insuredDriverTelephoneNumber": "+34605 158 906",
     "insuredDamageVA": "corrupti",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 603,
@@ -30914,7 +30914,7 @@
     "insuredDriverName": "Cayetano Mayol-Cuéllar",
     "insuredDriverTelephoneNumber": "+34982451725",
     "insuredDamageVA": "accusantium",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 612,
@@ -31062,7 +31062,7 @@
     "insuredDriverName": "Laura Salamanca Gaya",
     "insuredDriverTelephoneNumber": "+34899 94 36 09",
     "insuredDamageVA": "delectus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 615,
@@ -31485,7 +31485,7 @@
     "insuredDriverName": "Francisco Jose Heredia Bertrán",
     "insuredDriverTelephoneNumber": "+34 708 37 37 24",
     "insuredDamageVA": "recusandae",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 623,
@@ -31807,7 +31807,7 @@
     "insuredDriverName": "Tristán Agustí Campo",
     "insuredDriverTelephoneNumber": "+34724108978",
     "insuredDamageVA": "qui",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 630,
@@ -32292,7 +32292,7 @@
     "insuredDriverName": "Candela Teruel",
     "insuredDriverTelephoneNumber": "+34720 520 810",
     "insuredDamageVA": "illo",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 640,
@@ -33343,7 +33343,7 @@
     "insuredDriverName": "Hilario Segarra Viana",
     "insuredDriverTelephoneNumber": "+34 723373365",
     "insuredDamageVA": "dolorem",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 661,
@@ -33517,7 +33517,7 @@
     "insuredDriverName": "Brígida Tomasa Jove Iborra",
     "insuredDriverTelephoneNumber": "+34 632948859",
     "insuredDamageVA": "quis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 665,
@@ -33639,7 +33639,7 @@
     "insuredDriverName": "Valero Guillén Bou",
     "insuredDriverTelephoneNumber": "+34736 52 71 96",
     "insuredDamageVA": "veniam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 667,
@@ -33787,7 +33787,7 @@
     "insuredDriverName": "Visitación Flor Cabo",
     "insuredDriverTelephoneNumber": "+34702 25 60 32",
     "insuredDamageVA": "ad",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 670,
@@ -34119,7 +34119,7 @@
     "insuredDriverName": "Vanesa Becerra Royo",
     "insuredDriverTelephoneNumber": "+34712 03 48 62",
     "insuredDamageVA": "molestias",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 677,
@@ -34293,7 +34293,7 @@
     "insuredDriverName": "Cándida Casanovas Pozuelo",
     "insuredDriverTelephoneNumber": "+34 719 253 600",
     "insuredDamageVA": "aliquid",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 681,
@@ -34472,7 +34472,7 @@
     "insuredDriverName": "Nando Castañeda Valera",
     "insuredDriverTelephoneNumber": "+34730 030 941",
     "insuredDamageVA": "suscipit",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 685,
@@ -34599,7 +34599,7 @@
     "insuredDriverName": "Candela Ayllón",
     "insuredDriverTelephoneNumber": "+34 734 213 876",
     "insuredDamageVA": "accusamus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 687,
@@ -34874,7 +34874,7 @@
     "insuredDriverName": "Artemio Villalonga Priego",
     "insuredDriverTelephoneNumber": "+34729 76 95 91",
     "insuredDamageVA": "impedit",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 692,
@@ -35027,7 +35027,7 @@
     "insuredDriverName": "Luisina de Crespi",
     "insuredDriverTelephoneNumber": "+34737 620 311",
     "insuredDamageVA": "corrupti",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 695,
@@ -35445,7 +35445,7 @@
     "insuredDriverName": "Eusebio Montesinos-Cases",
     "insuredDriverTelephoneNumber": "+34 705 89 91 23",
     "insuredDamageVA": "aliquam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 703,
@@ -35572,7 +35572,7 @@
     "insuredDriverName": "Cruz Adadia Gras",
     "insuredDriverTelephoneNumber": "+34 718 34 40 61",
     "insuredDamageVA": "ea",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 705,
@@ -35699,7 +35699,7 @@
     "insuredDriverName": "Ema Naranjo Alberto",
     "insuredDriverTelephoneNumber": "+34717 12 65 15",
     "insuredDamageVA": "minima",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 707,
@@ -35995,7 +35995,7 @@
     "insuredDriverName": "Ramiro Prat Gabaldón",
     "insuredDriverTelephoneNumber": "+34825 32 71 75",
     "insuredDamageVA": "delectus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 713,
@@ -36117,7 +36117,7 @@
     "insuredDriverName": "Cintia Alcántara Caro",
     "insuredDriverTelephoneNumber": "+34 731 917 414",
     "insuredDamageVA": "quia",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 715,
@@ -36628,7 +36628,7 @@
     "insuredDriverName": "Isabel Bou Cifuentes",
     "insuredDriverTelephoneNumber": "+34 743 33 29 61",
     "insuredDamageVA": "accusantium",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 726,
@@ -36781,7 +36781,7 @@
     "insuredDriverName": "Juan José Jafet Acuña Iglesias",
     "insuredDriverTelephoneNumber": "+34 919 73 41 74",
     "insuredDamageVA": "quis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 729,
@@ -37373,7 +37373,7 @@
     "insuredDriverName": "Juan José Serrano-Casares",
     "insuredDriverTelephoneNumber": "+34946671884",
     "insuredDamageVA": "facilis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 741,
@@ -37495,7 +37495,7 @@
     "insuredDriverName": "Flavio García Neira",
     "insuredDriverTelephoneNumber": "+34 855806796",
     "insuredDamageVA": "dolorem",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 743,
@@ -38307,7 +38307,7 @@
     "insuredDriverName": "Miguela Nevado Donaire",
     "insuredDriverTelephoneNumber": "+34851 52 74 77",
     "insuredDamageVA": "nostrum",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 760,
@@ -39415,7 +39415,7 @@
     "insuredDriverName": "Jordán Querol Duque",
     "insuredDriverTelephoneNumber": "+34933 31 93 18",
     "insuredDamageVA": "aliquid",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 783,
@@ -39911,7 +39911,7 @@
     "insuredDriverName": "Gastón Marco Falcó",
     "insuredDriverTelephoneNumber": "+34 701 740 835",
     "insuredDamageVA": "sed",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 794,
@@ -40064,7 +40064,7 @@
     "insuredDriverName": "Paco Montaña",
     "insuredDriverTelephoneNumber": "+34 702 531 937",
     "insuredDamageVA": "cum",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 797,
@@ -40892,7 +40892,7 @@
     "insuredDriverName": "Cloe Heras Vélez",
     "insuredDriverTelephoneNumber": "+34727573090",
     "insuredDamageVA": "ratione",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 815,
@@ -41167,7 +41167,7 @@
     "insuredDriverName": "Merche Cerdá-Guzmán",
     "insuredDriverTelephoneNumber": "+34 877510994",
     "insuredDamageVA": "autem",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 820,
@@ -41463,7 +41463,7 @@
     "insuredDriverName": "Graciano Benitez Zamorano",
     "insuredDriverTelephoneNumber": "+34 713 926 661",
     "insuredDamageVA": "dignissimos",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 826,
@@ -42060,7 +42060,7 @@
     "insuredDriverName": "Dani Sáenz Cano",
     "insuredDriverTelephoneNumber": "+34834766338",
     "insuredDamageVA": "earum",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 838,
@@ -42208,7 +42208,7 @@
     "insuredDriverName": "Mariano Sancho-Prat",
     "insuredDriverTelephoneNumber": "+34 667585620",
     "insuredDamageVA": "sint",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 841,
@@ -43591,7 +43591,7 @@
     "insuredDriverName": "Dora Cases Riera",
     "insuredDriverTelephoneNumber": "+34807 381 088",
     "insuredDamageVA": "culpa",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 869,
@@ -44754,7 +44754,7 @@
     "insuredDriverName": "Sarita Márquez-Marcos",
     "insuredDriverTelephoneNumber": "+34 811 047 991",
     "insuredDamageVA": "a",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 892,
@@ -45055,7 +45055,7 @@
     "insuredDriverName": "Tamara Oliva Ramos",
     "insuredDriverTelephoneNumber": "+34 623 190 988",
     "insuredDamageVA": "dolores",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 898,
@@ -45208,7 +45208,7 @@
     "insuredDriverName": "Lupita de Robles",
     "insuredDriverTelephoneNumber": "+34 710 09 55 30",
     "insuredDamageVA": "nulla",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 901,
@@ -45387,7 +45387,7 @@
     "insuredDriverName": "Soledad Boada Castilla",
     "insuredDriverTelephoneNumber": "+34 735 44 55 11",
     "insuredDamageVA": "maiores",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 905,
@@ -45566,7 +45566,7 @@
     "insuredDriverName": "Manuel Jordán-Ugarte",
     "insuredDriverTelephoneNumber": "+34 647462410",
     "insuredDamageVA": "reprehenderit",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 909,
@@ -45693,7 +45693,7 @@
     "insuredDriverName": "Patricia Mendez",
     "insuredDriverTelephoneNumber": "+34707508656",
     "insuredDamageVA": "ipsam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 911,
@@ -46448,7 +46448,7 @@
     "insuredDriverName": "Amancio Iniesta Montoya",
     "insuredDriverTelephoneNumber": "+34 989 71 84 62",
     "insuredDamageVA": "pariatur",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 926,
@@ -46596,7 +46596,7 @@
     "insuredDriverName": "Gustavo Gargallo Carro",
     "insuredDriverTelephoneNumber": "+34 832 905 251",
     "insuredDamageVA": "fugit",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 929,
@@ -46749,7 +46749,7 @@
     "insuredDriverName": "Ezequiel Nieto Vall",
     "insuredDriverTelephoneNumber": "+34721 01 29 38",
     "insuredDamageVA": "illum",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 932,
@@ -47182,7 +47182,7 @@
     "insuredDriverName": "María Jesús Asenjo Marti",
     "insuredDriverTelephoneNumber": "+34728283454",
     "insuredDamageVA": "temporibus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 940,
@@ -47688,7 +47688,7 @@
     "insuredDriverName": "Febe Borrego Portero",
     "insuredDriverTelephoneNumber": "+34 679187422",
     "insuredDamageVA": "blanditiis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 951,
@@ -48490,7 +48490,7 @@
     "insuredDriverName": "Hernando de Gomila",
     "insuredDriverTelephoneNumber": "+34707592392",
     "insuredDamageVA": "quos",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 968,
@@ -48638,7 +48638,7 @@
     "insuredDriverName": "Santos de Andres",
     "insuredDriverTelephoneNumber": "+34 804967839",
     "insuredDamageVA": "aliquam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 971,
@@ -48934,7 +48934,7 @@
     "insuredDriverName": "Carmina Sanchez Arregui",
     "insuredDriverTelephoneNumber": "+34 662 331 231",
     "insuredDamageVA": "quibusdam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 977,
@@ -49108,7 +49108,7 @@
     "insuredDriverName": "Aureliano Cervera Blasco",
     "insuredDriverTelephoneNumber": "+34862999676",
     "insuredDamageVA": "expedita",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 981,
@@ -49479,7 +49479,7 @@
     "insuredDriverName": "Pía Amorós-Lamas",
     "insuredDriverTelephoneNumber": "+34708 41 47 57",
     "insuredDamageVA": "dolor",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 987,
@@ -50304,7 +50304,7 @@
     "insuredDriverName": "Mirta Pascual-Esparza",
     "insuredDriverTelephoneNumber": "+34 873 234 715",
     "insuredDamageVA": "dolores",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1002,
@@ -50457,7 +50457,7 @@
     "insuredDriverName": "Pilar Tejero-Otero",
     "insuredDriverTelephoneNumber": "+34712 90 22 77",
     "insuredDamageVA": "accusamus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1005,
@@ -51360,7 +51360,7 @@
     "insuredDriverName": "Noelia Ariza Ripoll",
     "insuredDriverTelephoneNumber": "+34844 48 71 42",
     "insuredDamageVA": "corporis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1023,
@@ -52079,7 +52079,7 @@
     "insuredDriverName": "Pánfilo Flor Zamora",
     "insuredDriverTelephoneNumber": "+34743637693",
     "insuredDamageVA": "labore",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1037,
@@ -52450,7 +52450,7 @@
     "insuredDriverName": "Mamen Ortiz Contreras",
     "insuredDriverTelephoneNumber": "+34 665 33 34 69",
     "insuredDamageVA": "ea",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1043,
@@ -53153,7 +53153,7 @@
     "insuredDriverName": "Constanza del Estrada",
     "insuredDriverTelephoneNumber": "+34716 16 41 32",
     "insuredDamageVA": "tenetur",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1056,
@@ -53332,7 +53332,7 @@
     "insuredDriverName": "Amanda del Torralba",
     "insuredDriverTelephoneNumber": "+34 739 282 509",
     "insuredDamageVA": "tempore",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1060,
@@ -53480,7 +53480,7 @@
     "insuredDriverName": "Juliana Daza Roca",
     "insuredDriverTelephoneNumber": "+34 714 95 95 74",
     "insuredDamageVA": "sed",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1063,
@@ -53851,7 +53851,7 @@
     "insuredDriverName": "Jonatan Priego Pou",
     "insuredDriverTelephoneNumber": "+34 738847339",
     "insuredDamageVA": "quisquam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1069,
@@ -54827,7 +54827,7 @@
     "insuredDriverName": "Carmen Gual Atienza",
     "insuredDriverTelephoneNumber": "+34 722920281",
     "insuredDamageVA": "exercitationem",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1090,
@@ -54980,7 +54980,7 @@
     "insuredDriverName": "Maxi Conrado Marti Juliá",
     "insuredDriverTelephoneNumber": "+34 723 698 243",
     "insuredDamageVA": "aliquid",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1093,
@@ -55102,7 +55102,7 @@
     "insuredDriverName": "José Gomila Palomo",
     "insuredDriverTelephoneNumber": "+34818 195 992",
     "insuredDamageVA": "repudiandae",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1095,
@@ -55582,7 +55582,7 @@
     "insuredDriverName": "Elvira del Pellicer",
     "insuredDriverTelephoneNumber": "+34 727 859 803",
     "insuredDamageVA": "in",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1105,
@@ -55756,7 +55756,7 @@
     "insuredDriverName": "Leandro Sarabia Andrade",
     "insuredDriverTelephoneNumber": "+34 724 25 70 46",
     "insuredDamageVA": "voluptates",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1109,
@@ -56174,7 +56174,7 @@
     "insuredDriverName": "Fidela Gallardo Olivares",
     "insuredDriverTelephoneNumber": "+34884 817 397",
     "insuredDamageVA": "numquam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1117,
@@ -56348,7 +56348,7 @@
     "insuredDriverName": "Modesta de Casanovas",
     "insuredDriverTelephoneNumber": "+34 727 76 81 17",
     "insuredDamageVA": "ullam",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1121,
@@ -56470,7 +56470,7 @@
     "insuredDriverName": "Maximiano Zabaleta Ricart",
     "insuredDriverTelephoneNumber": "+34807 225 632",
     "insuredDamageVA": "nemo",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1123,
@@ -57077,7 +57077,7 @@
     "insuredDriverName": "Carla Saura Cano",
     "insuredDriverTelephoneNumber": "+34826 48 01 49",
     "insuredDamageVA": "tempore",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1135,
@@ -57648,7 +57648,7 @@
     "insuredDriverName": "Gilberto Echeverría Araujo",
     "insuredDriverTelephoneNumber": "+34 731812125",
     "insuredDamageVA": "expedita",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1146,
@@ -57770,7 +57770,7 @@
     "insuredDriverName": "Abraham Tamayo-Porta",
     "insuredDriverTelephoneNumber": "+34 712708612",
     "insuredDamageVA": "quis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1148,
@@ -58657,7 +58657,7 @@
     "insuredDriverName": "Eloísa Vendrell Muñoz",
     "insuredDriverTelephoneNumber": "+34623752923",
     "insuredDamageVA": "corrupti",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1165,
@@ -59386,7 +59386,7 @@
     "insuredDriverName": "Galo Lladó Garriga",
     "insuredDriverTelephoneNumber": "+34 723 89 42 54",
     "insuredDamageVA": "ratione",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1179,
@@ -59687,7 +59687,7 @@
     "insuredDriverName": "Tomasa Dávila Bosch",
     "insuredDriverTelephoneNumber": "+34728 847 367",
     "insuredDamageVA": "quidem",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1185,
@@ -59988,7 +59988,7 @@
     "insuredDriverName": "Nando Castells Alonso",
     "insuredDriverTelephoneNumber": "+34703849817",
     "insuredDamageVA": "vero",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1191,
@@ -60284,7 +60284,7 @@
     "insuredDriverName": "Adolfo Medina Rojas",
     "insuredDriverTelephoneNumber": "+34 716571539",
     "insuredDamageVA": "at",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1197,
@@ -60406,7 +60406,7 @@
     "insuredDriverName": "Aurora Mata Arcos",
     "insuredDriverTelephoneNumber": "+34 626153514",
     "insuredDamageVA": "delectus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1199,
@@ -60559,7 +60559,7 @@
     "insuredDriverName": "Dominga Galván Tovar",
     "insuredDriverTelephoneNumber": "+34 670 89 23 45",
     "insuredDamageVA": "blanditiis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1202,
@@ -60891,7 +60891,7 @@
     "insuredDriverName": "Martina Grande Botella",
     "insuredDriverTelephoneNumber": "+34 726 23 42 52",
     "insuredDamageVA": "optio",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1209,
@@ -62243,7 +62243,7 @@
     "insuredDriverName": "Tiburcio Cervantes Espada",
     "insuredDriverTelephoneNumber": "+34739 175 810",
     "insuredDamageVA": "perferendis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1236,
@@ -63198,7 +63198,7 @@
     "insuredDriverName": "Perlita Arranz-Pastor",
     "insuredDriverTelephoneNumber": "+34728 110 741",
     "insuredDamageVA": "porro",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1256,
@@ -63478,7 +63478,7 @@
     "insuredDriverName": "Ángeles Gomila Sevilla",
     "insuredDriverTelephoneNumber": "+34 745424195",
     "insuredDamageVA": "doloremque",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1261,
@@ -63631,7 +63631,7 @@
     "insuredDriverName": "Lope Salmerón",
     "insuredDriverTelephoneNumber": "+34 743 239 304",
     "insuredDamageVA": "architecto",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1264,
@@ -63805,7 +63805,7 @@
     "insuredDriverName": "Úrsula Narváez Comas",
     "insuredDriverTelephoneNumber": "+34 725 930 358",
     "insuredDamageVA": "accusantium",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1268,
@@ -64207,7 +64207,7 @@
     "insuredDriverName": "Delia Nicolás Moles",
     "insuredDriverTelephoneNumber": "+34727 49 31 56",
     "insuredDamageVA": "labore",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1275,
@@ -65857,7 +65857,7 @@
     "insuredDriverName": "Vicente Roldan-Galán",
     "insuredDriverTelephoneNumber": "+34 849 32 52 52",
     "insuredDamageVA": "dolor",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1305,
@@ -66106,7 +66106,7 @@
     "insuredDriverName": "Lázaro Canals Pinedo",
     "insuredDriverTelephoneNumber": "+34 825 921 959",
     "insuredDamageVA": "facilis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1309,
@@ -66259,7 +66259,7 @@
     "insuredDriverName": "Maribel Piñeiro Arias",
     "insuredDriverTelephoneNumber": "+34735 90 36 88",
     "insuredDamageVA": "sequi",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1312,
@@ -66503,7 +66503,7 @@
     "insuredDriverName": "Nereida Reina Gámez",
     "insuredDriverTelephoneNumber": "+34 712129707",
     "insuredDamageVA": "sint",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1316,
@@ -67105,7 +67105,7 @@
     "insuredDriverName": "Vasco Cabezas",
     "insuredDriverTelephoneNumber": "+34 725 66 77 55",
     "insuredDamageVA": "consequuntur",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 1328,
@@ -67279,7 +67279,7 @@
     "insuredDriverName": "Reyes de Rovira",
     "insuredDriverTelephoneNumber": "+34706 30 08 54",
     "insuredDamageVA": "esse",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 1332,
@@ -67876,7 +67876,7 @@
     "insuredDriverName": "Carlito Ulises Vendrell Burgos",
     "insuredDriverTelephoneNumber": "+34 949 26 59 49",
     "insuredDamageVA": "officia",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 1344,
@@ -67998,7 +67998,7 @@
     "insuredDriverName": "Baltasar Roman",
     "insuredDriverTelephoneNumber": "+34738683645",
     "insuredDamageVA": "optio",
-    "status": 1,
+    "status": 5,
     "objectsList": [
       {
         "objetId": 1346,
@@ -68177,7 +68177,7 @@
     "insuredDriverName": "Paula Perera Juliá",
     "insuredDriverTelephoneNumber": "+34717 81 15 34",
     "insuredDamageVA": "voluptatibus",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1350,
@@ -68911,7 +68911,7 @@
     "insuredDriverName": "Porfirio Pujadas Villalba",
     "insuredDriverTelephoneNumber": "+34717183968",
     "insuredDamageVA": "laborum",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1364,
@@ -69038,7 +69038,7 @@
     "insuredDriverName": "Ester Sainz Múgica",
     "insuredDriverTelephoneNumber": "+34 681 933 362",
     "insuredDamageVA": "nulla",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1366,
@@ -69972,7 +69972,7 @@
     "insuredDriverName": "Priscila Agudo",
     "insuredDriverTelephoneNumber": "+34720601473",
     "insuredDamageVA": "sapiente",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1385,
@@ -71589,7 +71589,7 @@
     "insuredDriverName": "Julie Casals-Roselló",
     "insuredDriverTelephoneNumber": "+34722 49 63 29",
     "insuredDamageVA": "quae",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1417,
@@ -71763,7 +71763,7 @@
     "insuredDriverName": "María Cristina de Álvarez",
     "insuredDriverTelephoneNumber": "+34 707 25 55 80",
     "insuredDamageVA": "neque",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1421,
@@ -72007,7 +72007,7 @@
     "insuredDriverName": "Federico del Macías",
     "insuredDriverTelephoneNumber": "+34 675 72 48 02",
     "insuredDamageVA": "corporis",
-    "status": 1,
+    "status": 4,
     "objectsList": [
       {
         "objetId": 1425,
